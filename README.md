@@ -33,5 +33,9 @@ implemente el sistema.
 humedad de esta y las altas temperatura a las que va a ser expuesto al estar
 enterrado.
 
-## Diagrama del sistema
+## Diagrama eléctrico
+El sistema se implementó en un Arduino UNO y un Arduino Nano para verificar que el sistema funciona en diferentes plataformas y placas de desarrollo. Se implementaron dos LEDs que se encargan de indicar cuando el sistema
+se encuentra encendido y cada vez que un dato esté siendo tomado.
+
+![UNO_Version](https://user-images.githubusercontent.com/111079577/184231145-031e9310-0b66-41cb-a7e3-146600c62283.png) ![NANO_Version]()
 
