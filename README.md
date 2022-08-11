@@ -37,7 +37,7 @@ enterrado.
 El sistema se implementó en un Arduino UNO y un Arduino Nano para verificar que el sistema funciona en diferentes plataformas y placas de desarrollo. Se implementaron dos LEDs que se encargan de indicar cuando el sistema
 se encuentra encendido y cada vez que un dato esté siendo tomado.
 
-<img src="https://user-images.githubusercontent.com/111079577/184231145-031e9310-0b66-41cb-a7e3-146600c62283.png" alt="UNO_Version" width="500"/> <img src="https://user-images.githubusercontent.com/111079577/184231149-dabe5663-59d2-46d3-96b6-13390444cee2.png" alt="NANO_Version" width="500"/>
+<img src="https://user-images.githubusercontent.com/111079577/184231145-031e9310-0b66-41cb-a7e3-146600c62283.png" alt="UNO_Version" width="400"/> <img src="https://user-images.githubusercontent.com/111079577/184231149-dabe5663-59d2-46d3-96b6-13390444cee2.png" alt="NANO_Version" width="400"/>
 
 ## Implementación del sistema
 
