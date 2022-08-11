@@ -39,21 +39,21 @@ se encuentra encendido y cada vez que un dato esté siendo tomado.
 
 <img src="https://user-images.githubusercontent.com/111079577/184231145-031e9310-0b66-41cb-a7e3-146600c62283.png" alt="UNO_Version" width="500"/> <img src="https://user-images.githubusercontent.com/111079577/184231149-dabe5663-59d2-46d3-96b6-13390444cee2.png" alt="NANO_Version" width="500"/>
 
-# Implementación del sistema
+## Implementación del sistema
 
 - Primer montaje usando un Arduino Nano junto con el sensor de temperatura, el reloj y la memoria.
 
-<img src="" alt="UNO_Version" width="500"/> 
+<img src="https://user-images.githubusercontent.com/111079577/184237458-cbfedbce-91e9-4b6d-bf1e-ef4b3ea8aec8.jpg" alt="first_Version" height="500"/> 
 
 - Encapsulado del sistema
 
-<img src="" alt="capsule" width="500"/>
+<img src="https://user-images.githubusercontent.com/111079577/184237464-28dc7dee-4199-4f80-8ab5-e6a70f37f651.jpg" alt="capsule" height="500"/> <img src="https://user-images.githubusercontent.com/111079577/184231151-0fa6cff8-e53c-4daf-8601-53837ffc26d0.jpg" alt="prototypes" width="500"/>
 
--Prueba en campo del sistema
+- Prueba en campo del sistema
 
-Se cava un agujero de 50 cm para enterrar todo el sistema dejando al descubiertoúnicamente el sensor.
+Se cava un agujero de 50 cm para enterrar todo el sistema dejando al descubierto únicamente la termocupla.
 
-
+<img src="https://user-images.githubusercontent.com/111079577/184231131-b9223672-4d3e-4a14-bca8-a72f7371f0ad.jpg" alt="hole" width="500"/> <img src="https://user-images.githubusercontent.com/111079577/184237460-1c568cb6-cfc6-4e41-ad4d-10662adc1d4a.jpg" alt="device_inside_the_hole" width="500"/>
 
 
 
